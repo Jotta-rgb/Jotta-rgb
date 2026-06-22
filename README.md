@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o João Paulo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Focado+em+Cloud+%26+DevOps;Construindo+base+sólida+em+Linux%2C+Redes+e+AWS;Evoluindo+para+Cloud+Engineer%2C+DevOps+e+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=950&lines=Focado+em+Cloud+%26+DevOps;Construindo+base+sólida+em+Linux%2C+Redes+e+AWS;Cloud+Engineer+%E2%80%A2+DevOps+%E2%80%A2+Solutions+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -78,12 +78,12 @@ Minha trilha de evolução está estruturada em etapas para construir base, prá
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jotta-rgb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jotta-rgb&show_icons=true&theme=tokyonight&locale=pt-br&border_radius=12" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotta-rgb&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jotta-rgb&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jotta-rgb&theme=tokyonight&border_radius=12&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 ---

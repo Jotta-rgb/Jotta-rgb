@@ -1,27 +1,31 @@
 # Olá, eu sou o João Paulo 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Estudando_Cloud_&_DevOps-007ACC?style=for-the-badge&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Focado_em_Cloud_&_DevOps-007ACC?style=for-the-badge&logoColor=white" alt="Status">
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
-Sou estudante de **Cloud Computing e Linux** focado em arquitetura de infraestrutura na nuvem e cultura DevOps. Atualmente, desenvolvo soluções backend utilizando **C#** e estruturo barramentos de APIs eficientes, aplicando conceitos sólidos de lógica e organização de código.
+Sou estudante de **Cloud Computing e Linux**, com foco em infraestrutura em nuvem, cultura DevOps e desenvolvimento backend com **C#**. Atualmente, estou construindo minha base sólida em sistemas Linux, redes, versionamento com Git/GitHub e serviços de nuvem, enquanto desenvolvo projetos backend e aprofundo meus conhecimentos em automação e arquitetura cloud.
 
 * 🎯 **Objetivo:** Automatizar infraestruturas confiáveis e implementar práticas modernas de CI/CD.
-* 🏢 **Formação:** Técnico em Informática e especialização em Cloud Engineering.
+* 🏢 **Formação:** Técnico em Informática | Em formação em Cloud Computing, Linux e DevOps
 * 📍 **Localização:** São Paulo - SP
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🧠 Em Andamento
+Para construir uma base sólida e sem pular etapas, meu foco atual de estudos e prática está em:
+* 🐧 **Linux Essentials** — Práticas e laboratórios
+* 🌐 **Fundamentos de Redes** — Protocolos, roteamento e topologias
+* 🛠️ **Git e GitHub** — Versionamento e colaboração de código
+* 🇺🇸 **Inglês Técnico** — Documentação e leitura diária
+* 🗺️ **Meu Roadmap:** Cloud Engineer ➔ DevOps Engineer ➔ Cloud Solutions Architect
 
-### ☁️ Nuvem & Infraestrutura
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Desenvolvimento & Banco de Dados
 <p align="left">
@@ -30,6 +34,12 @@ Sou estudante de **Cloud Computing e Linux** focado em arquitetura de infraestru
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+</p>
+
+### ☁️ Cloud & Infraestrutura (Base Atual)
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
@@ -46,4 +56,3 @@ Sou estudante de **Cloud Computing e Linux** focado em arquitetura de infraestru
 <p align="center">
   <i>"A consistência na base é o que sustenta a evolução na nuvem."</i>
 </p>
-
